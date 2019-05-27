@@ -42,4 +42,4 @@ react-native run-android
 - `android`
 - `ios`
 - `node_modules`
-- `setup, congif, lockfiles etc.`
+- `setup, config, lockfiles etc.`
